@@ -1,0 +1,19 @@
+{
+  "name": "gradient-colors-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KareemMoneeam/gradient-colors-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KareemMoneeam/gradient-colors-generator/issues"
+  },
+  "homepage": "https://github.com/KareemMoneeam/gradient-colors-generator#readme"
+}
